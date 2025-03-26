@@ -1,0 +1,47 @@
+1. Com que frequência você utiliza o estacionamentos?
+
+Pelo menos 2 vezes por semana
+
+2. Quais os principais problemas que você enfrenta ao usar estacionamentos na região?
+
+R. Alem de lotação, o mau regitro de sistemas como o Sem Parar
+
+3. Já teve algum problema com danos no seu veículo em estacionamentos?
+
+R. Nenhum que eu possa lembrar de recente...
+
+4. Como você se sente em relação à segurança do seu veículo em estacionamentos?
+
+R. Depende do estacionamento, se for em um lugar legal ou integrado com o local que estou indo me sinto seguro mas de resto não muito.
+
+5. Qual a sua opinião sobre o sistema de pagamento dos estacionamentos?
+
+R. Maioria das vezes é tudo automático então não tenho fortes opiniões
+
+6. Quais funcionalidades você considera essenciais em um sistema de estacionamento moderno?
+
+R. Contação de vagas e luzes indicando onde tem uma livre, além de pagamento automático
+
+7. Como você avalia a importância de um sistema que mostre a disponibilidade de vagas em tempo real?
+
+R. Muito alta
+
+8. Que tipo de informação você gostaria de receber sobre o seu veículo enquanto ele está estacionado?
+
+R. Local onde ele está estacionado e se ele ainda estiver ali para caso de furto
+
+9. Quais métodos de pagamento você prefere utilizar em estacionamentos?
+
+R. Automatico (Ex Sem Parar).
+
+10. Quanto tempo demora para o manobrista buscar seu veículo?
+
+R. Depende, se estiver cheio pelo menos uns 10 min mas se estiver mais vazio é mais rápido
+
+11. Qual a sua opinião sobre a implementação de um sistema de reconhecimento de placas para entrada e saída automática de veículos?
+
+R. Otima
+
+12. Quais recursos adicionais você gostaria de ver em um aplicativo de estacionamento, como por exemplo reservas antecipadas?
+
+R. Reservas antecipadas seriam um ótimo adiconamento mas de resto não consigo pensar muito como.
