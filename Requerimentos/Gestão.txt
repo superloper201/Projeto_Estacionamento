@@ -1,0 +1,20 @@
+1. Sistemas de Gestão de Estacionamento
+Sistemas de Controle de Acesso: Controlam o acesso dos veículos através de barreiras automáticas, catracas, cancelas e sistemas de leitura de placas (ANPR - Reconhecimento Automático de Placas).
+Exemplo: Sistemas de leitura de placas (LPR - License Plate Recognition), que registram as entradas e saídas dos veículos e permitem a cobrança automática.
+2. Software de Gestão de Estacionamento
+Exemplo: Sistemas como ParkOffice ou ParkPlus oferecem painéis de controle em tempo real para monitoramento de vagas disponíveis, controle de pagamentos, relatórios e gestão de ocupação.
+Funcionalidade: Permitem o gerenciamento de vagas, cobrança automática, reservas online e relatórios detalhados para uma gestão eficiente.
+3. Sistemas de Pagamento Automatizado
+Exemplo: Parquímetros Inteligentes ou Aplicativos de Pagamento como ParkMobile ou EasyPark, que permitem aos motoristas pagar pelo estacionamento diretamente pelo celular.
+Funcionalidade: Pagamento via cartão de crédito, QR code, ou até pagamento por tempo real via aplicativos móveis.
+4. Sensores de Vagas
+Exemplo: Sensores de ocupação, como Parki ou Smart Parking, que detectam se uma vaga está ocupada ou livre, ajudando os motoristas a encontrar uma vaga mais rapidamente.
+Funcionalidade: Sensores instalados no solo ou no teto das vagas, enviando informações em tempo real para o sistema de gestão de estacionamento.
+5. Sistemas de Iluminação Inteligente
+Exemplo: Sistemas de iluminação automatizada que acendem quando um veículo entra em uma vaga ou indicam vagas disponíveis com cores diferenciadas (verde para livre, vermelho para ocupada).
+Funcionalidade: Reduz o consumo de energia e melhora a experiência do usuário.
+6. Controle e Automação de Vagas Reservadas
+Exemplo: Sistemas de reserva de vaga que permitem que os usuários façam a reserva antecipada de uma vaga, seja por aplicativo ou via web.
+Funcionalidade: Permite que o estacionamento seja otimizado, evitando que vagas fiquem ociosas ou ocupadas por pessoas que não têm direito a elas.
+7. Integração com CRM e ERP
+Exemplo: Alguns sistemas de controle de estacionamento podem ser integrados a plataformas de CRM ou ERP (como o SAP ou Salesforce) para gerenciar o relacionamento com o cliente e gerar relatórios financeiros e operacionais completos
