@@ -1,0 +1,11 @@
+Ideias para o estacionamento análise do vídeo apresentado:
+
+O vídeo não condiz com as ideias e problemas do nosso cliente devido ao nível de alto orçamento que seria necessário para a implantação dessas tecnologias tendo em invista que o nosso cliente tem seu estacionamento no centro de são Paulo e não teria condições de obter essas tecnologias.
+Assim como é mostrado no vídeo várias ideias inovadoras são extremamente necessárias para um novo meio de melhorias para ficar cada vez mais fácil para os seres humanos, porém nosso cliente não teria condições para resolver seus problema com base no vídeo apresetado.
+Porém, poderia ser implementado umas das soluções apresentadas no vídeo tendo adaptações:
+
+1- Serva com o robô Ray, ele pode estacionar o carro levando-o para qualquer lugar usando o Digitalização em 3D.
+Que poderia ser adaptado para as condições do nosso cliente.
+
+2- V-charge, com esse sistema o carro utiliza sensores e câmeras para identificar um espaço de estacionamento adequado e se estacionar sozinho. permitindo que os carros elétricos e híbridos se estacionem e carreguem suas baterias de forma autônoma, sem intervenção do motorista.
+Que poderia ser adaptado com algo que condiz com a realidade do nosso cliente.
