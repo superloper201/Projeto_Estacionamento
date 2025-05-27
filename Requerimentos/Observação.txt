@@ -9,3 +9,6 @@ Que poderia ser adaptado para as condições do nosso cliente.
 
 2- V-charge, com esse sistema o carro utiliza sensores e câmeras para identificar um espaço de estacionamento adequado e se estacionar sozinho. permitindo que os carros elétricos e híbridos se estacionem e carreguem suas baterias de forma autônoma, sem intervenção do motorista.
 Que poderia ser adaptado com algo que condiz com a realidade do nosso cliente.
+
+Obs: Considerando o fato das falhas dos manobristas indetificarem as vagas propriamente, as soluções podem ser consideradas mais a fundo dependedo de como o cliente nos remunerar. 
+Alem disso uma solução de melhorar os sensores de identificação de vaga sera optimal, com facil vizualização para os manobristas.
