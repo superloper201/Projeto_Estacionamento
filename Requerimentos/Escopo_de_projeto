@@ -1,0 +1,84 @@
+1. Objetivos
+Tempo: Desenvolver e implementar o sistema em até 6 meses.
+
+Orçamento: Manter os custos abaixo de R$ 50.000,00.
+
+Qualidade: Oferecer uma solução tecnológica que melhore a eficiência, segurança e satisfação dos clientes em estacionamentos.
+
+2. Restrições
+Tecnológicas: Dependência de sensores e integração com sistemas de pagamento digital.
+
+Orçamentárias: Limitação de investimento em hardware (sensores, câmeras, iluminação inteligente).
+
+Operacionais: Necessidade de treinamento dos manobristas para uso do novo sistema.
+
+3. Justificativa
+Problemas identificados:
+
+Lotação e dificuldade de encontrar vagas.
+
+Falhas no registro de sistemas como Sem Parar.
+
+Insegurança em estacionamentos não monitorados.
+
+Solução proposta:
+
+Implementação de sensores de vagas, câmeras de reconhecimento de placas e pagamentos digitais para agilizar o processo.
+
+Melhoria na sinalização e feedback dos clientes para aprimorar a experiência do usuário.
+
+4. Descrição do Projeto
+Entregas Principais:
+Sistema de monitoramento de vagas via sensores.
+
+Integração com aplicativo para mostrar vagas disponíveis.
+
+Câmeras para reconhecimento de placas e segurança.
+
+Módulo de pagamento digital (Sem Parar, Pix, cartão).
+
+Treinamento para manobristas e funcionários.
+
+Critérios de Aceitação:
+Redução de 30% no tempo de ocupação de vagas.
+
+Diminuição de reclamações sobre falhas no pagamento.
+
+Aumento de 20% na satisfação dos clientes (medido via feedback).
+
+Exclusões:
+Não inclui reforma estrutural do estacionamento.
+
+Não cobre custos de manutenção de terceiros (ex.: concessionárias de pagamento).
+
+5. Cronograma (Fases Principais)
+Etapa	Duração
+Pesquisa e Análise	1 mês
+Desenvolvimento do Sistema	3 meses
+Testes e Ajustes	1 mês
+Treinamento e Implantação	1 mês
+6. Custos Estimados
+Item	Custo (R$)
+Sensores de vagas	15.000,00
+Câmeras e software	10.000,00
+Iluminação inteligente	5.000,00
+Desenvolvimento de app	12.000,00
+Treinamento	3.000,00
+Total	45.000,00
+7. Gestão do Projeto
+Metodologia: Ágil (SCRUM), com sprints de 2 semanas.
+
+Responsabilidades:
+
+Gerente de Projeto: Acompanhamento de prazos e orçamento.
+
+Equipe de TI: Desenvolvimento do sistema e integração.
+
+Operacional: Treinamento e implantação.
+
+8. Fatores Críticos de Sucesso
+Funcionamento sem falhas dos sensores e câmeras.
+
+Aceitação dos clientes aos pagamentos digitais.
+
+Redução de filas e tempo de espera.
